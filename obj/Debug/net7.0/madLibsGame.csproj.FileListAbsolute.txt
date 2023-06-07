@@ -1,0 +1,15 @@
+/home/danielpinto105/Desktop/csProjects/madLibsGame/bin/Debug/net7.0/madLibsGame
+/home/danielpinto105/Desktop/csProjects/madLibsGame/bin/Debug/net7.0/madLibsGame.deps.json
+/home/danielpinto105/Desktop/csProjects/madLibsGame/bin/Debug/net7.0/madLibsGame.runtimeconfig.json
+/home/danielpinto105/Desktop/csProjects/madLibsGame/bin/Debug/net7.0/madLibsGame.dll
+/home/danielpinto105/Desktop/csProjects/madLibsGame/bin/Debug/net7.0/madLibsGame.pdb
+/home/danielpinto105/Desktop/csProjects/madLibsGame/obj/Debug/net7.0/madLibsGame.csproj.AssemblyReference.cache
+/home/danielpinto105/Desktop/csProjects/madLibsGame/obj/Debug/net7.0/madLibsGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/danielpinto105/Desktop/csProjects/madLibsGame/obj/Debug/net7.0/madLibsGame.AssemblyInfoInputs.cache
+/home/danielpinto105/Desktop/csProjects/madLibsGame/obj/Debug/net7.0/madLibsGame.AssemblyInfo.cs
+/home/danielpinto105/Desktop/csProjects/madLibsGame/obj/Debug/net7.0/madLibsGame.csproj.CoreCompileInputs.cache
+/home/danielpinto105/Desktop/csProjects/madLibsGame/obj/Debug/net7.0/madLibsGame.dll
+/home/danielpinto105/Desktop/csProjects/madLibsGame/obj/Debug/net7.0/refint/madLibsGame.dll
+/home/danielpinto105/Desktop/csProjects/madLibsGame/obj/Debug/net7.0/madLibsGame.pdb
+/home/danielpinto105/Desktop/csProjects/madLibsGame/obj/Debug/net7.0/madLibsGame.genruntimeconfig.cache
+/home/danielpinto105/Desktop/csProjects/madLibsGame/obj/Debug/net7.0/ref/madLibsGame.dll
